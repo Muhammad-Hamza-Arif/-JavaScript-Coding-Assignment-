@@ -1,0 +1,10 @@
+let favourite_places = ["Hunza Valley", "Swat Valley", "Naran Kaghan", "Shogran Valley", "Skardu Valley"];
+console.log(`Original Order: ${favourite_places}`);
+console.log(`Alphabetical Order: ${favourite_places.sort()}`);
+console.log(`Original Order: ${favourite_places}`);
+console.log(`Reverse Alphabetical Order: ${favourite_places.reverse()}`);
+console.log(`Original Order: ${favourite_places}`);
+console.log(`Original Order: ${favourite_places.reverse()}`);
+console.log(`Original Order: ${favourite_places.reverse()}`);
+console.log(`Original Order: ${favourite_places.sort()}`);
+console.log(`Original Order: ${favourite_places.reverse()}`);
